@@ -16,7 +16,7 @@ public class ProductController {
     {
         return "hello ";
     } //from here down
-    /*
+
     @GetMapping("/getproducts")
 
     public List<Product> getProducts()
@@ -31,5 +31,5 @@ public class ProductController {
         return myProduct;
     }
 
-     */
+
 }
